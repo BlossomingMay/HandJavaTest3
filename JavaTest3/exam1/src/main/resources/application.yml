@@ -1,0 +1,9 @@
+film:
+  title: ${title}
+  description: ${description}
+  film_id: ${film_id}
+
+#film:
+#  film_id: 2000
+#  title: "my_film_title"
+#  description: "my_description"

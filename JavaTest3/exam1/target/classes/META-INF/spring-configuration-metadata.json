@@ -1,0 +1,28 @@
+{
+  "groups": [
+    {
+      "name": "film",
+      "type": "com.huang.exam1.entities.Film",
+      "sourceType": "com.huang.exam1.entities.Film"
+    }
+  ],
+  "properties": [
+    {
+      "name": "film.description",
+      "type": "java.lang.String",
+      "sourceType": "com.huang.exam1.entities.Film"
+    },
+    {
+      "name": "film.film-id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.huang.exam1.entities.Film",
+      "defaultValue": 0
+    },
+    {
+      "name": "film.title",
+      "type": "java.lang.String",
+      "sourceType": "com.huang.exam1.entities.Film"
+    }
+  ],
+  "hints": []
+}
